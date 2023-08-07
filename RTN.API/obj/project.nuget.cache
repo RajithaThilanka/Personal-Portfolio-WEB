@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pngkIijYRWyDKfDlLgWADfKMcvSYzY2aUkAd8OyAoAixxLtA01tIiN8BYMI8UkSnEg+3cbN40PqMqhtxNECDgA==",
+  "success": true,
+  "projectFilePath": "D:\\ITX360\\Personal-Portfolio-WEB\\RTN.API\\RTN.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
